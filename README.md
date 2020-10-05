@@ -13,7 +13,7 @@
 |birthday|16/08 | 
 |Favorite food     |Sushis|
 Pineappel on the 
-pizza    Yes [ ] # No [x]
+pizza    |Yes [ ] # No [x]
 
 ### Hobbies 
 
