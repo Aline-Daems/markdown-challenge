@@ -11,11 +11,9 @@
 |Proprety|Value |
 ---------|------
 |birthday|16/08 | 
-|Favorite 
-food     |Sushis|
-Pineappe |
-on the 
-pizza    |Yes [ ] # No [x]
+|Favorite food     |Sushis|
+Pineappel on the 
+pizza    Yes [ ] # No [x]
 
 ### Hobbies 
 
