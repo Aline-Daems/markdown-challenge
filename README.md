@@ -1,1 +1,46 @@
 # markdown-challenge
+
+# Aline Daems 
+
+*To be or not to be, that's the question*
+
+![My Picture](/Home/Documents/Becode/markdown-challenge/mypicture.jpg)
+
+## I'm motivated and always ready to help others. 
+
+|Birthday|Favorite color|Favorite food|Pineapple on pizza|
+-----------------------------------------------------------
+| 16/08 | Red | sushis |Yes [ ] # No [x]
+
+### Hobbies 
+
+- Role play game 
+    - Role play game on table
+    - Role play game on forums
+
+- Movies 
+    - Star Wars
+    - Lord of the ring 
+    - Marvel 
+    - Harry Potter
+
+- Video games 
+    - World of Warcraft
+    - Fall guys
+    - Minecraft 
+
+#### You can always count on me when ... 
+
+Create a joke. Motivated others. Help others. Listen others. 
+
+##### A funny story 
+
+I have meet my fiance on the internet. We were playing a role play game. We got married soon.31 juily 2021. And you're all invited !! Have you ever seen a celtic wedding ? This is the occasion. 
+
+###### TL;DR
+
+I'm getting married on july 31 2021
+
+
+
+    
