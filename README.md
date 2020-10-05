@@ -12,7 +12,7 @@
 ---------|------
 |birthday|16/08 | 
 |Favorite food     |Sushis|
-Pineappel on the pizza    |-  [ ] Yes  #- [x] No
+Pineappel on the pizza    | - [x] No
 
 ### Hobbies 
 
@@ -43,6 +43,8 @@ I have meet my fiance on the internet. We were playing a role play game. We got 
 
 I'm getting married on july 31 2021
 
+
+<<[Previous](link) || ALINE || [Next](link)>>
 
 
     
