@@ -4,7 +4,7 @@
 
 *To be or not to be, that's the question*
 
-![My Picture](/Home/Documents/Becode/markdown-challenge/mypicture.jpg)
+![My Picture2](https://ibb.co/ydVwnZZ)
 
 ## I'm motivated and always ready to help others. 
 
