@@ -8,9 +8,14 @@
 
 ## I'm motivated and always ready to help others. 
 
-|Birthday|Favorite color|Favorite food|Pineapple on pizza|
------------------------------------------------------------
-| 16/08 | Red | sushis |Yes [ ] # No [x]
+|Proprety|Value |
+---------|------
+|birthday|16/08 | 
+|Favorite 
+food     |Sushis|
+Pineappe |
+on the 
+pizza    |Yes [ ] # No [x]
 
 ### Hobbies 
 
