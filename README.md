@@ -44,7 +44,7 @@ I have meet my fiance on the internet. We were playing a role play game. We got 
 I'm getting married on july 31 2021
 
 
-<<[Previous](link) || ALINE || [Next](link)>>
+<<[Previous](https://github.com/macmowl/markdown-challenge) || ALINE || [Next](https://github.com/Aubanyx/markdown-challenge/blob/main/README.md)>>
 
 
     
